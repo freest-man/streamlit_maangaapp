@@ -2,7 +2,7 @@
 
 This Streamlit app is a simple yet powerful tool to visualize historical data for selected stocks. 
 
-![image](https://github.com/freest-man/streamlit_maangaapp/assets/116303271/f74cdb5c-8ceb-457e-b387-7493c0a287da)
+![image](https://github.com/freest-man/streamlit_maangaapp/assets/116303271/e15cd8ee-5b39-4971-88a8-b337ffbe76c8)
 
 
 Let's break down the code step by step:
@@ -91,5 +91,9 @@ st.line_chart(historical_data.Volume)
 Similarly, the volume trends are displayed with a heading, and the line chart is created using the volume data.
 
 This Streamlit app allows users to select a stock from a sidebar, and it dynamically fetches and displays historical closing prices and volume trends for the chosen stock. 
+
+
+![image](https://github.com/freest-man/streamlit_maangaapp/assets/116303271/f74cdb5c-8ceb-457e-b387-7493c0a287da)
+
 
 The visualizations are presented in a user-friendly and interactive way, making it easy for users to explore stock data.
