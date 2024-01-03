@@ -2,6 +2,10 @@
 
 This Streamlit app is a simple yet powerful tool to visualize historical data for selected stocks. 
 
+![Uploading image.png…]()
+
+
+
 Let's break down the code step by step:
 
 
